@@ -32,6 +32,7 @@ public class Productoss extends javax.swing.JFrame {
     public Productoss() {
         initComponents();
         mostrarDatos();
+        //Comentario de prueba
     }
     public void mostrarDatos(){
         String[] titulos = {"Codigo Producto ","Nombre Producto", "Precio Unitario","Cantidad Producto", "FechadeIngreso"};
